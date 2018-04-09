@@ -12,3 +12,4 @@ http://cusf.roycreatif.com
 Since the original project is no longer maintained, in the future features upcoming should be: <br>
 * Real-time Location service (client device)
 * GoPro GPS location reporting overlay
+* Global access to the Google Map service (e.g. bypassing censorship in China)
