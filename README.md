@@ -7,3 +7,8 @@ A web-based tool for predicting the flight paths of meteorological sounding ball
 # Our Servicing Site
 Our Servicing Site is availiable here: <br>
 http://cusf.roycreatif.com
+
+# A Long Way to Go
+Since the original project is no longer maintained, in the future features upcoming should be: <br>
+* Real-time Location service (client device)
+* GoPro GPS location reporting overlay
